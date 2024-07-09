@@ -10,3 +10,4 @@ Tren penyewaan Airbnb di Bangkok meningkat setiap tahun, kecuali 2022 karena ter
 Bulan Desember merupakan puncak penyewaan tertinggi karena terdapat libur panjang natal dan tahun baru.
 Distrik Vadhana merupakan distrik yang memiliki tingkat penyewaan tertinggi serta nilai tengah harga tertinggi diantara distrik yang lain karena di distrik Vadhana terdapat tempat pusat bisnis yang membutuhkan banyak penyewaan tempat tinggal untuk pekerja lokal maupun mancanegara.
 Tipe ruangan yang paling diminati adalah tipe entire home/ apartemen karena kemungkinan penyewa membutuhkan tempat yang lebih besar dan lebih private untuk kenyamanan. 
+Terdapat korelasi yang rendah antara harga properti berdasarkan tahun
